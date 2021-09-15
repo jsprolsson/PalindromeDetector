@@ -1,0 +1,14 @@
+C:\Users\jespe\source\repos\Palindrom-detektor\Palindrom-detektor\bin\Debug\netcoreapp3.1\Palindrom-detektor.exe
+C:\Users\jespe\source\repos\Palindrom-detektor\Palindrom-detektor\bin\Debug\netcoreapp3.1\Palindrom-detektor.deps.json
+C:\Users\jespe\source\repos\Palindrom-detektor\Palindrom-detektor\bin\Debug\netcoreapp3.1\Palindrom-detektor.runtimeconfig.json
+C:\Users\jespe\source\repos\Palindrom-detektor\Palindrom-detektor\bin\Debug\netcoreapp3.1\Palindrom-detektor.runtimeconfig.dev.json
+C:\Users\jespe\source\repos\Palindrom-detektor\Palindrom-detektor\bin\Debug\netcoreapp3.1\Palindrom-detektor.dll
+C:\Users\jespe\source\repos\Palindrom-detektor\Palindrom-detektor\bin\Debug\netcoreapp3.1\Palindrom-detektor.pdb
+C:\Users\jespe\source\repos\Palindrom-detektor\Palindrom-detektor\obj\Debug\netcoreapp3.1\Palindrom-detektor.csproj.AssemblyReference.cache
+C:\Users\jespe\source\repos\Palindrom-detektor\Palindrom-detektor\obj\Debug\netcoreapp3.1\Palindrom-detektor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jespe\source\repos\Palindrom-detektor\Palindrom-detektor\obj\Debug\netcoreapp3.1\Palindrom-detektor.AssemblyInfoInputs.cache
+C:\Users\jespe\source\repos\Palindrom-detektor\Palindrom-detektor\obj\Debug\netcoreapp3.1\Palindrom-detektor.AssemblyInfo.cs
+C:\Users\jespe\source\repos\Palindrom-detektor\Palindrom-detektor\obj\Debug\netcoreapp3.1\Palindrom-detektor.csproj.CoreCompileInputs.cache
+C:\Users\jespe\source\repos\Palindrom-detektor\Palindrom-detektor\obj\Debug\netcoreapp3.1\Palindrom-detektor.dll
+C:\Users\jespe\source\repos\Palindrom-detektor\Palindrom-detektor\obj\Debug\netcoreapp3.1\Palindrom-detektor.pdb
+C:\Users\jespe\source\repos\Palindrom-detektor\Palindrom-detektor\obj\Debug\netcoreapp3.1\Palindrom-detektor.genruntimeconfig.cache
