@@ -8,14 +8,50 @@ namespace Palindrom_detektor
     {
         static void Main(string[] args)
         {
-            Console.Write("Write output: ");
-            string wordInput = Console.ReadLine();                  
-            string reversedWord = Reverse(wordInput);                  
-                                                                       
-           string trimmedWordInput = RemoveChar(wordInput);
-           string trimmedReversedWord = RemoveChar(reversedWord);
+            Console.WriteLine("Welcome to the Palindrome Detector!");
+            Console.WriteLine("--------------------------------------");
 
-            CheckIfPalindrome(trimmedWordInput.ToLower(), trimmedReversedWord.ToLower());                 
+            int userInput;
+            do
+            {
+                Console.WriteLine("Do you want to: \n1. Run Detector Program\n2. Exit");
+                userInput = int.Parse(Console.ReadLine());
+
+                switch (userInput)
+                {
+                    case 1:
+                        PalindromeDetector.RunDetector();
+                        break;
+                    case 2:
+                        Console.WriteLine("Goodbye!");
+                        break;
+                    default:
+                        Console.WriteLine("Invalid input.");
+                        break;
+                }
+                Console.ReadKey();
+                Console.Clear();
+
+            } while (userInput != 2);
+
+
+        }
+
+        class PalindromeDetector
+        {
+
+            public static void RunDetector()
+            {
+                Console.Write("Write possible palindrome word: ");
+                string wordInput = Console.ReadLine();
+                string reversedWord = Reverse(wordInput);
+
+                string trimmedWordInput = RemoveChar(wordInput);
+                string trimmedReversedWord = RemoveChar(reversedWord);
+
+                CheckIfPalindrome(trimmedWordInput.ToLower(), trimmedReversedWord.ToLower());
+            }
+
 
         }
 
